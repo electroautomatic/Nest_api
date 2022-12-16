@@ -1,0 +1,1 @@
+export const ALREADY_REGISTRED_ERROR = 'already registred error';
